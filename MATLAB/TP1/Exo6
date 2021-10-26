@@ -1,0 +1,7 @@
+clear variables;
+close all;
+
+
+% Variables
+t=-5:0.01:5;
+Te=0.01;
